@@ -7,7 +7,9 @@ or Democrat the state voted in the 2016 presidential election.
 
 ## Technology
 Python 3.6
-Packges, Libraries: NumPy, GeoPandas, Bokeh
+
+
+Packages, Libraries: NumPy, GeoPandas, Bokeh
 
 ## Result
 
