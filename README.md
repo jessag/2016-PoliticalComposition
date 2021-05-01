@@ -2,8 +2,8 @@
 
 ## Introduction
 
-The purpose of this project was to illustrate the political composition of the United States as a function of how Republican
-or Democrat the state voted in the 2016 presidential election. 
+The purpose of this project was to illustrate the political composition of the United States as a function of the degree any given state voted Republican
+or Democrat in the 2016 presidential election. 
 
 ## Technology
 Python 3.6
